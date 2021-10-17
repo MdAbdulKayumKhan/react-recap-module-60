@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit",
+    "img": "https://i.ibb.co/TMn1rJp/6.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit",
+    "img": "https://i.ibb.co/3d98vLz/5.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit",
+    "img": "https://i.ibb.co/WtFkCj7/4.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": " Lorem ipsum dolor sit",
+    "img": "https://i.ibb.co/bvbmR6t/3.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": " Lorem ipsum dolor sit",
+    "img": "https://i.ibb.co/Y7yYh9g/1.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Replace Tire",
+    "price": 2000,
+    "description": "Lorem ipsum dolor sit",
+    "img": "https://i.ibb.co/0t23vLD/2.jpg"
+  }
+]
